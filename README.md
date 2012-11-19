@@ -9,3 +9,5 @@ To compile and run:
     ...
    
 <ctrl-C> twice to exit.
+
+I've included [an explanation of the implementation|https://github.com/aeden/fizzbuzz-erlang/blob/master/explained.md] for those who are interested.
